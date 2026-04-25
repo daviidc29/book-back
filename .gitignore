@@ -6,4 +6,6 @@ target/
 *.log
 # .idea
 .idea/
+.env
+
   
