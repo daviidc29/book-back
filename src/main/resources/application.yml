@@ -1,0 +1,18 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: book-ai-backend
+
+n8n:
+  webhook:
+    url: https://daviidc297.app.n8n.cloud/webhook/analyze-word
+
+openlibrary:
+  api:
+    url: https://openlibrary.org
+
+logging:
+  level:
+    com.bookai.client: DEBUG

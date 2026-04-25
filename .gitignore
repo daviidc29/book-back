@@ -1,0 +1,9 @@
+# vscode
+.vscode/
+# target
+target/
+# logslogs/
+*.log
+# .idea
+.idea/
+  
